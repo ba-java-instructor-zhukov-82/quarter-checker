@@ -33,3 +33,5 @@ if(x == '' || y == '') {
     print('Point is in beginning of coordinate system!');
 }
 ```
+
+Project published: https://ba-java-instructor-zhukov-82.github.io/quarter-checker/
